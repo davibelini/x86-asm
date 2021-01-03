@@ -1,1 +1,1 @@
-> ### This is a repository with my x86 assmebly code.
+> ### This is a repository holding x86 assmebly code that I wrote.
